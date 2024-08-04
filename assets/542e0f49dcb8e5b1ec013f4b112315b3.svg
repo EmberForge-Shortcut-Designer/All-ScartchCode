@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 29 39" height="39" width="29">
+<rect fill="white" height="39" width="29"></rect>
+<path stroke="#0D0E12" fill="#0D0E12" d="M7 35H22V38.5H7V35Z"></path>
+<path stroke="#0D0E12" fill="#FFA800" d="M8 25H21L18 32L21 34H8L11 32L8 25Z"></path>
+<mask height="9" width="13" y="25" x="8" maskUnits="userSpaceOnUse" style="mask-type:alpha" id="mask0_1477_417">
+<path fill-opacity="0.6" fill="black" d="M8 25H21L18 32L21 34H8L11 32L8 25Z"></path>
+</mask>
+<g mask="url(#mask0_1477_417)">
+<path fill-opacity="0.6" fill="black" d="M17.5 27L19 23L29.5 34.5L18 42.5L1.5 37L4 32C5 32.1667 7.9 32.2 11.5 31C15.1 29.8 17 27.8333 17.5 27Z"></path>
+</g>
+<rect fill="white" height="3" width="9" y="35" x="10"></rect>
+<rect stroke-width="1.8125" stroke="#0D0E12" fill="#A36C00" rx="2.90954" height="8.33751" width="5.81909" y="15.2246" x="22.2747"></rect>
+<rect stroke-width="1.8125" stroke="#0D0E12" fill="#A36C00" rx="2.90954" height="8.33751" width="5.81909" y="15.2246" x="0.906251"></rect>
+<rect stroke-width="1.8125" stroke="#0D0E12" fill="#FFD600" rx="4.53126" height="17.0375" width="21.0823" y="7.97461" x="3.95899"></rect>
+<line stroke-width="1.8125" stroke="#0D0E12" y2="3.00004" x2="14.0937" y1="8.80005" x1="14.0937"></line>
+<line stroke-width="1.8125" stroke="#0D0E12" y2="22.1125" x2="21.3685" y1="22.1125" x1="16.7896"></line>
+<circle stroke-width="1.8125" stroke="#0D0E12" fill="#0D0E12" r="2.09375" cy="3" cx="14"></circle>
+<circle stroke-width="1.8125" stroke="#0D0E12" fill="white" r="1.59375" cy="16.5" cx="9.5"></circle>
+<circle stroke-width="1.85416" stroke="#0D0E12" fill="white" r="1.57292" cy="16.5" cx="19.5"></circle>
+<rect fill="black" height="1" width="5" y="36" x="11"></rect>
+</svg>
